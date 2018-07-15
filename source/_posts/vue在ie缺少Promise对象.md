@@ -1,7 +1,7 @@
 ---
 title: vue在ie缺少Promise对象
 date: 2018-07-08 11:49:31
-tags:
+tags: js
 ---
 原文: http://www.cnblogs.com/wujiaolong/p/7372509.html
 
