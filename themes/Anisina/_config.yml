@@ -137,7 +137,7 @@ deploy:
 
 
 # img CDN path
-cdn-url:  # 你的CDN地址
+cdn-url:  http://img.pconline.com.cn/images/upload/upc/tx/wallpaper/1208/24/c2/13179846_1345796441965.jpg
 
 # Qiniu imageView2 API
 # More info http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html

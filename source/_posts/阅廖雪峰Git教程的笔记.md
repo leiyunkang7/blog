@@ -114,6 +114,8 @@ Git分支十分强大，在团队开发中应该充分应用。
 
 * 从远程抓取分支，使用`git pull`，如果有冲突，要先处理冲突。
 
+* 查看日志`git log --pretty=oneline --abbrev-commit`
+
 ## Rebase
 * rebase操作可以把本地未push的分叉提交历史整理成直线；
 
