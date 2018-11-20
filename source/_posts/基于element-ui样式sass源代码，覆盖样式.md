@@ -1,7 +1,7 @@
 ---
 title: 基于element-ui样式sass源代码，覆盖样式
 date: 2018-11-02 21:58:45
-tags: css
+tags: css element-ui
 ---
 
 1.download`https://github.com/ElementUI/theme-chalk/tree/master/src`至`/src/styles/element-isales`目录下
