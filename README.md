@@ -1,2 +1,1 @@
-# blog
-First Blog
+https://github.com/leiyunkang7/blog/issues
